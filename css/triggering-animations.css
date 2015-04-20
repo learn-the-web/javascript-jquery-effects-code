@@ -1,0 +1,36 @@
+.box {
+  width: 200px;
+  height: 200px;
+  border-top: 4px solid #000;
+  background-color: red;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+
+.js-box-animate {
+  -webkit-animation: rotate 1s linear;
+  animation: rotate 1s linear;
+}
+
+@-webkit-keyframes rotate {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes rotate {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}

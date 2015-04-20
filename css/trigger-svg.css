@@ -1,0 +1,36 @@
+.word {
+  width: 20rem;
+}
+
+.js-animate .st0 {
+  animation: biggify 250ms 2 alternate;
+}
+
+#letter-d {
+
+}
+
+#letter-i {
+  animation-delay: 250ms;
+}
+
+#letter-n {
+  animation-delay: 500ms;
+}
+
+#letter-o {
+  animation-delay: 750ms;
+}
+
+#exclaim {
+  animation-delay: 1s;
+}
+
+@keyframes biggify {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.1);
+  }
+}
