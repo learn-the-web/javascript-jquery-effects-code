@@ -1,8 +1,8 @@
-# Javascript effects code samples
+# Javascript + jQuery effects code samples
 
-Code samples for the Javascript effects tutorial.
+Code samples for the Javascript + jQuery effects tutorial.
 
-### [☛ Tutorials & videos](http://learn-the-web.algonquindesign.ca/topics/javascript-effects/)
+### [☛ Tutorials & videos](http://learn-the-web.algonquindesign.ca/topics/javascript-jquery-effects/)
 
 ---
 
